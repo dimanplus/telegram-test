@@ -1,1 +1,2 @@
-# Some test code with Hello World
+# Some test code for some Telegram bot
+with Python, with love
